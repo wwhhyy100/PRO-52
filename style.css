@@ -1,0 +1,64 @@
+.body{
+    margin-right: 5000px;
+}
+
+body{
+    background-color: wheat;
+}
+
+.body1{
+    background-color: rgb(158, 60, 60);
+}
+
+
+.foto{
+    margin-right: 5000px;
+}
+
+.foto1{
+    background: chartreuse;
+}
+
+.Pigeon{
+    margin-right: 5000px;
+}
+
+.Pigeon1{
+    background: gray;
+}
+
+.Teddy-Bear{
+    margin-right: 5000px;
+}
+
+.Teddy-Bear1{
+    background: orange;
+}
+
+.flying-cicada{
+    margin-right: 5000px;
+}
+
+.flying-cicada1{
+    background: rgb(247, 10, 10);
+}
+
+.body:hover{
+    transform: scale(2);
+}
+
+.Teddy-Bear:hover{
+    transform: scale(2);
+}
+
+.Pigeon:hover{
+    transform: scale(2);
+}
+
+.foto:hover{
+    transform: scale(2);
+}
+
+.flying-cicada:hover{
+    transform: scale(2);
+}
